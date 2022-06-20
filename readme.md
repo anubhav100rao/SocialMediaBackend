@@ -1,5 +1,5 @@
 # Social Media backend
-build using python, fastapi, postgres database
+build using python, fastapi, postgres database, jwt authetication
 
 # getting started
 fork the repo <br>
