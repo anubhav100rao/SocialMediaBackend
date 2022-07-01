@@ -5,7 +5,7 @@ build using python, fastapi, postgres database, jwt authetication
 fork the repo <br>
 clone the repository <br>
 run pip3 install -r requirements.txt <br>
-configurations for postgresql database, you may change as per your need
+configurations for postgresql database, you may change as per your need<br>
 DATABASE_HOSTNAME=localhost<br>
 DATABASE_PORT=5432<br>
 DATABASE_PASSWORD=<br>
